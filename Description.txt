@@ -1,4 +1,4 @@
-The added files contains Exploratory Data Analysis with a case study. Furthermore, added a .gitignore file to remove default .DS_store
+
 
 Commands to Remove existing .DS_Store files add .gitignore to remove .DS_store
 
